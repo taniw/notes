@@ -1,0 +1,49 @@
+a {
+	color: green;
+}
+
+h1 {
+	font-size: 50px;
+	color: purple;
+	text-align: center;
+}
+
+h2 {
+	font-size: 40px;
+	color: black;
+}
+
+p {
+	color: gray;
+	font-size: 15px;
+}
+
+
+img {
+	border: 10px black solid;
+	width: 500px;
+}
+
+#one {
+	border-color: yellow;
+}
+
+#two {
+	border-color: red;
+}
+
+li {
+	margin-bottom: 40px;
+}
+
+a:hover {
+	color: red;
+}
+
+ol {
+	text-align: right;
+	list-style-position: inside;
+}
+
+
+
