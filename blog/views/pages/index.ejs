@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel='stylesheet' href='/style/style.css' type='text/css' />
+	<title>All Entries</title>
+</head>
+<body>
+	<h1>BLOG LOG</h1>
+	<hr/> 
+	<ul>
+	<% for (var i = 0; i < entries.length; i++) { %>
+		<li>
+		<a href="/entries/ <%= entries[i].id %>">
+		<%= entries[i].title %> </a>
+		</li>
+	<% } %>
+	</ul>
+
+	
+</body>
+</html>
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>All People</title>
+</head>
+<body>
+	<h1>These are all my contacts:</h1>
+	<ul>
+	<% for (var i = 0; i < people.length; i++) { %>
+		<li>
+		<a href="/people/<%= people[i].id %>">
+		<%= people[i].name %> </a>
+		</li>
+	<% } %>
+	</ul>
+
+	<a href="/people/new">Add Person</a>
+</body>
+</html>
