@@ -1,4 +1,8 @@
-{ "name": "notes",
+{
+  "name": "notes",
   "version": "0.0.0",
-  "description": "notes for sf-wdi-14" 
+  "description": "notes for sf-wdi-14",
+  "dependencies": {
+    "express": "^4.10.4"
+  }
 }

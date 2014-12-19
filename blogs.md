@@ -1,5 +1,5 @@
-#Student Blogs
->>>>>>> d5876d8ecab1940d64072586018d48c12580dcd4
+# Blogs
+* [Ian Schoonover](https://medium.com/@ianschoonover)
 * [Colt Steele](http://google.com)
 * [Carlos Ponce](https://medium.com/@jcponce510/day-one-at-general-assembly-or-a-new-chapter-in-life-339f4243dec9)
 * [Nicole Borgaard](https://medium.com/@whyGaard)
