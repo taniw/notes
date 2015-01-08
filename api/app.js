@@ -17,7 +17,7 @@ app.get('/', function(req, res) {
 	
 
 app.get('/results', function(req, res) {
-	var city = req.query['name'];
+	var title1 = req.query['title'];
 	request('http://omdbapi.com/?t=' + title1, function(error, response, body) {
 		if(!error) {
 
