@@ -1,0 +1,15 @@
+<h1><%= @album.title %></h1>
+<p><%= @album.artist %></p>
+<p><%= @album.year %></p>
+
+<%= link_to 'Edit', edit_album_path(@album) %>
+
+<%= link_to 'Delete', @album, method: :delete %>
+
+<%= link_to 'New', new_album_path(@album) %>
+
+<%= link_to 'Home', albums_path %>
+
+
+
+
