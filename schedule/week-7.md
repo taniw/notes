@@ -12,14 +12,14 @@
   <tr>
     <td>Dawn</td>
     <td><a href="https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_1_monday/dawn/auth-in-rails.md">Auth in Rails</a> (Ilias)</td>
-    <td><a href="#">Nested Resources & Multiple Associations</a> (Ilias)</td>
+    <td><a href="https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_2_tuesday/dawn/nested-resources-and-multiple-associations.md">Nested Resources & Multiple Associations</a> (Ilias)</td>
     <td><a href="#">TDD App</a> (Dennis)</td>
     <td><a href="#">Active Job</a> (Brian)</td>
     <td>Review (Brian)</td>
   </tr>
   <tr>
     <td>Dusk</td>
-    <td><a href="#">Devise</a> (Brian)</td>
+    <td><a href="https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_1_monday/dusk/devise_notes.md">Devise</a> (Brian)</td>
     <td>Review (Ilias & Dennis)</td>
     <td><a href="#">TDD App</a> (Dennis)</td>
     <td><a href="#">HTTParty & Action Mailer</a> (Brian)</td>
@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td>Lab</td>
-    <td><a href="https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_1_monday/dawn/auth-in-rails.md#user-content-lab">Login System in your own app</a></td>
+    <td><a href="https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_1_monday/dawn/auth-in-rails.md#tonights-lab">Login System in your own app</a></td>
     <td></td>
     <td></td>
     <td></td>
