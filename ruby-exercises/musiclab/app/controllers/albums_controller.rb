@@ -1,4 +1,5 @@
 class AlbumsController < ApplicationController
+	before_action :authenticate_user!
 	before_action :find_album, only: [:show, :edit, :update, :destroy]
 
 
